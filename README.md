@@ -1,5 +1,15 @@
 # interp-engine
 
+> **PatientWords fork of `decoderesearch/interp-engine`.** interp-engine is the interpretability runtime behind the
+> depth and verify modes of the PatientWords engine, which installs the PyPI version pinned in its
+> [`constraints.txt`](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/constraints.txt), not this
+> source. Its role is recorded in the engine's
+> [ecosystem map](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/docs/ecosystem.md#patientwords-interp-engine)
+> and [repository registry](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/data/ecosystem/repositories.v1.json).
+> To start offline, follow the engine's
+> [offline quickstart](https://github.com/michaeldgreenphd/patientwords-engine/blob/main/docs/start_here.md#procedure-a-offline-quickstart),
+> which needs no method fork. The rest of this README is the upstream project's.
+
 <p align="center">
   <img src="https://neuronpedia.s3.amazonaws.com/site-assets/ielogo.png" alt="interp-engine logo, a magnifying glass where the handle is a rocket" width="160">
 </p>
